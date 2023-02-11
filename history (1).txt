@@ -1,0 +1,105 @@
+   0 whoami
+   1 pwd
+   2 cd /home
+   3 mkdir animals
+   4 p - animals/cats/dogs/fish
+   5 ls
+   6 cd animals
+   7 mkdir cats
+   8 mkdir dogs
+   9 mkdir fish
+  10 ls
+  11 cd cats
+  12 touch garfield.txt
+  13 cd ..
+  14 cd dogs
+  15 touch pluto.txt
+  16 cd ..
+  17 cd fish
+  18 touch nemo
+  19 cd ..
+  20 tree
+  21 cd ..
+  22 cd
+  23 /tmp
+  24 ls
+  25 cd tmp
+  26 cd /tmp
+  27 touch adam.txt
+  28 ls
+  29 cd..
+  30 cd
+  31 cp /tmp/adam.txt//home/humans
+  32 cp /tmp/adam.txt// home/humans/adam.txt
+  33 ls
+  34 home
+  35 cd home
+  36 cd /home
+  37 ls
+  38 mkdir humans
+  39 ls
+  40 cd ..
+  41 tmp
+  42 cd tmp
+  43 ls
+  44 cp /tmp/adam.txt//home/humans/adam.txt
+  45 ls
+  46 cd /home
+  47 ls
+  48 ls humans
+  49 ls
+  50 ls humans
+  51 mv /home/humans/adam.txt
+  52 ls
+  53 ls humans
+  54 cd tmp
+  55 cd /tmp
+  56 mv /tmp/adam.txt// home/humans/adam.txt
+  57 tmp/adam.txt//home/humans/adam.txt
+  58 ls
+  59 - mv/tmp/adam.txt//home/humans/adam.txt
+  60 cp/tmp/adam.txt//home/humans/adam.txt
+  61 cd
+  62 cp -r tmp
+  63 mv /tmp//home/humans
+  64 cd /home
+  65 ls
+  66 ls humans
+  67 mv /home/humans/adam.txt
+  68 - mv/home/humans/adam.txt
+  69 ls
+  70 cd humans
+  71 touch adam.txt
+  72 ls
+  73 cd tmp
+  74 cd ..\
+  75 cd
+  76 cd /tmp
+  77 touch eVa.txt
+  78 ls
+  79 /tmp/eva.txt//opt/eve.txt
+  80 -mv /tmp/eva.txt//opt/eve
+  81 help --
+  82 \pws
+  83 pwd
+  84 mv /tmp/ eVa.txt//opt/eve
+  85 cd /opt
+  86 ls
+  87 rename temu/eve
+  88 touch eve.txt
+  89 ls
+  90 tree
+  91 /opt/eve.txt//home/humans/eve.txt
+  92 cd /home
+  93 ls
+  94 ls humans
+  95 mv/home/eve
+  96 touch eve.txt
+  97 ls
+  98 ls humans
+  99 p - /home/humans/eva.txt
+ 100 - p /home/humans/eva.txt
+ 101 ls
+ 102 cd
+ 103 history
+ 104 history>history.txt
